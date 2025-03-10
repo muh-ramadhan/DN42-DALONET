@@ -1,0 +1,10 @@
+domain:             dalonet.dn42
+org:                ORG-DALONET
+admin-c:            DALONET-DN42
+tech-c:             DALONET-DN42
+mnt-by:             DALONET-MNT
+nserver:            ns1.dalonet.dn42 172.20.10.61
+nserver:            ns1.dalonet.dn42 fdee:5ba9:6069:53::1
+nserver:            ns2.dalonet.dn42 172.20.10.62
+nserver:            ns2.dalonet.dn42 fdee:5ba9:6069:53::2
+source:             DN42
