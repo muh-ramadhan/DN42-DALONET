@@ -1,0 +1,5 @@
+route6:             fdee:5ba9:6069::/48
+origin:             AS4242420011
+max-length:         48
+mnt-by:             DALONET-MNT
+source:             DN42
