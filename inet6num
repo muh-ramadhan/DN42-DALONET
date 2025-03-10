@@ -1,0 +1,11 @@
+inet6num:           fdee:5ba9:6069:0000:0000:0000:0000:0000 - fdee:5ba9:6069:ffff:ffff:ffff:ffff:ffff
+cidr:               fdee:5ba9:6069::/48
+netname:            DALONET-NETWORK
+org:                ORG-DALONET
+descr:              PT Dalahas Local Network
+country:            ID
+admin-c:            DALONET-DN42
+tech-c:             DALONET-DN42
+mnt-by:             DALONET-MNT
+status:             ASSIGNED
+source:             DN42
