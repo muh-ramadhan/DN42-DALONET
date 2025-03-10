@@ -1,0 +1,5 @@
+route:              172.20.10.32/27
+origin:             AS4242420011
+max-length:         27
+mnt-by:             DALONET-MNT
+source:             DN42
