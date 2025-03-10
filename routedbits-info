@@ -1,0 +1,4 @@
+Interface Wireguard : wg-routedbits.conf
+IPv4 : 172.20.10.35/27
+IPv6 ULA : fdee:5ba9:6069::3/64
+IPv6 Local-Link : fe80::3/64
