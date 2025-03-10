@@ -1,4 +1,5 @@
-Interface Wireguard : wg-surgebyte.conf
+Interface Wireguard : /etc/wireguard/wg-surgebyte.conf
+Interface Bird : /etc/bird/peers/surgebyte.conf
 IPv4 : 172.20.10.34/27
 IPv6 ULA : fdee:5ba9:6069::2/64
 IPv6 Local-Link : fe80::2/64
